@@ -1,0 +1,70 @@
+/* navbar */
+.navbar {
+    text-align: center;
+    margin-top: 50px;
+    padding: 150px;
+    background-image: url(gambar/ayam.jpg);
+    background-size: 1200px;
+    color: white;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.navbar h2 {
+    font-family:serif;
+}
+
+
+/* utama */
+.utama {
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+
+}
+
+
+/* pemisah */
+.pemisah {
+    margin: 10px;
+}
+
+
+/* photo */
+.photo {
+    display: flex;
+    height: 300px;
+    margin: 10px;
+    overflow:auto;
+    border-radius: 10px;
+    padding-right: 5px;
+    margin-right: 5px;
+    gap: 5px;
+}
+
+
+/* akhir */
+.akhir {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+/* pemutup */
+.penutup {
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+.edit {
+    color: white;
+}
+
+.link {
+    color: white;
+}
